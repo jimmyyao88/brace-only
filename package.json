@@ -1,0 +1,31 @@
+{
+  "name": "brace-only",
+  "version": "1.0.0",
+  "description": "Generated templates with two brace { }",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimmyyao88/brace-only.git"
+  },
+  "keywords": [
+    "Generated",
+    "templates",
+    "with",
+    "two",
+    "brace",
+    "{",
+    "}"
+  ],
+  "author": "Jimmy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimmyyao88/brace-only/issues"
+  },
+  "homepage": "https://github.com/jimmyyao88/brace-only#readme"
+}
